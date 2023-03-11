@@ -1,0 +1,169 @@
+,airline,avail_seat_km_per_week,year_range,type_of_event,n_events_85_99,n_events_00_14
+0,Aer Lingus,320906734,85_99,incidents,2,0
+1,Aeroflot*,1197672318,85_99,incidents,76,6
+2,Aerolineas Argentinas,385803648,85_99,incidents,6,1
+3,Aeromexico*,596871813,85_99,incidents,3,5
+4,Air Canada,1865253802,85_99,incidents,2,2
+5,Air France,3004002661,85_99,incidents,14,6
+6,Air India*,869253552,85_99,incidents,2,4
+7,Air New Zealand*,710174817,85_99,incidents,3,5
+8,Alaska Airlines*,965346773,85_99,incidents,5,5
+9,Alitalia,698012498,85_99,incidents,7,4
+10,All Nippon Airways,1841234177,85_99,incidents,3,7
+11,American*,5228357340,85_99,incidents,21,17
+12,Austrian Airlines,358239823,85_99,incidents,1,1
+13,Avianca,396922563,85_99,incidents,5,0
+14,British Airways*,3179760952,85_99,incidents,4,6
+15,Cathay Pacific*,2582459303,85_99,incidents,0,2
+16,China Airlines,813216487,85_99,incidents,12,2
+17,Condor,417982610,85_99,incidents,2,0
+18,COPA,550491507,85_99,incidents,3,0
+19,Delta / Northwest*,6525658894,85_99,incidents,24,24
+20,Egyptair,557699891,85_99,incidents,8,4
+21,El Al,335448023,85_99,incidents,1,1
+22,Ethiopian Airlines,488560643,85_99,incidents,25,5
+23,Finnair,506464950,85_99,incidents,1,0
+24,Garuda Indonesia,613356665,85_99,incidents,10,4
+25,Gulf Air,301379762,85_99,incidents,1,3
+26,Hawaiian Airlines,493877795,85_99,incidents,0,1
+27,Iberia,1173203126,85_99,incidents,4,5
+28,Japan Airlines,1574217531,85_99,incidents,3,0
+29,Kenya Airways,277414794,85_99,incidents,2,2
+30,KLM*,1874561773,85_99,incidents,7,1
+31,Korean Air,1734522605,85_99,incidents,12,1
+32,LAN Airlines,1001965891,85_99,incidents,3,0
+33,Lufthansa*,3426529504,85_99,incidents,6,3
+34,Malaysia Airlines,1039171244,85_99,incidents,3,3
+35,Pakistan International,348563137,85_99,incidents,8,10
+36,Philippine Airlines,413007158,85_99,incidents,7,2
+37,Qantas*,1917428984,85_99,incidents,1,5
+38,Royal Air Maroc,295705339,85_99,incidents,5,3
+39,SAS*,682971852,85_99,incidents,5,6
+40,Saudi Arabian,859673901,85_99,incidents,7,11
+41,Singapore Airlines,2376857805,85_99,incidents,2,2
+42,South African,651502442,85_99,incidents,2,1
+43,Southwest Airlines,3276525770,85_99,incidents,1,8
+44,Sri Lankan / AirLanka,325582976,85_99,incidents,2,4
+45,SWISS*,792601299,85_99,incidents,2,3
+46,TACA,259373346,85_99,incidents,3,1
+47,TAM,1509195646,85_99,incidents,8,7
+48,TAP - Air Portugal,619130754,85_99,incidents,0,0
+49,Thai Airways,1702802250,85_99,incidents,8,2
+50,Turkish Airlines,1946098294,85_99,incidents,8,8
+51,United / Continental*,7139291291,85_99,incidents,19,14
+52,US Airways / America West*,2455687887,85_99,incidents,16,11
+53,Vietnam Airlines,625084918,85_99,incidents,7,1
+54,Virgin Atlantic,1005248585,85_99,incidents,1,0
+55,Xiamen Airlines,430462962,85_99,incidents,9,2
+56,Aer Lingus,320906734,85_99,fatal_accidents,0,0
+57,Aeroflot*,1197672318,85_99,fatal_accidents,14,1
+58,Aerolineas Argentinas,385803648,85_99,fatal_accidents,0,0
+59,Aeromexico*,596871813,85_99,fatal_accidents,1,0
+60,Air Canada,1865253802,85_99,fatal_accidents,0,0
+61,Air France,3004002661,85_99,fatal_accidents,4,2
+62,Air India*,869253552,85_99,fatal_accidents,1,1
+63,Air New Zealand*,710174817,85_99,fatal_accidents,0,1
+64,Alaska Airlines*,965346773,85_99,fatal_accidents,0,1
+65,Alitalia,698012498,85_99,fatal_accidents,2,0
+66,All Nippon Airways,1841234177,85_99,fatal_accidents,1,0
+67,American*,5228357340,85_99,fatal_accidents,5,3
+68,Austrian Airlines,358239823,85_99,fatal_accidents,0,0
+69,Avianca,396922563,85_99,fatal_accidents,3,0
+70,British Airways*,3179760952,85_99,fatal_accidents,0,0
+71,Cathay Pacific*,2582459303,85_99,fatal_accidents,0,0
+72,China Airlines,813216487,85_99,fatal_accidents,6,1
+73,Condor,417982610,85_99,fatal_accidents,1,0
+74,COPA,550491507,85_99,fatal_accidents,1,0
+75,Delta / Northwest*,6525658894,85_99,fatal_accidents,12,2
+76,Egyptair,557699891,85_99,fatal_accidents,3,1
+77,El Al,335448023,85_99,fatal_accidents,1,0
+78,Ethiopian Airlines,488560643,85_99,fatal_accidents,5,2
+79,Finnair,506464950,85_99,fatal_accidents,0,0
+80,Garuda Indonesia,613356665,85_99,fatal_accidents,3,2
+81,Gulf Air,301379762,85_99,fatal_accidents,0,1
+82,Hawaiian Airlines,493877795,85_99,fatal_accidents,0,0
+83,Iberia,1173203126,85_99,fatal_accidents,1,0
+84,Japan Airlines,1574217531,85_99,fatal_accidents,1,0
+85,Kenya Airways,277414794,85_99,fatal_accidents,0,2
+86,KLM*,1874561773,85_99,fatal_accidents,1,0
+87,Korean Air,1734522605,85_99,fatal_accidents,5,0
+88,LAN Airlines,1001965891,85_99,fatal_accidents,2,0
+89,Lufthansa*,3426529504,85_99,fatal_accidents,1,0
+90,Malaysia Airlines,1039171244,85_99,fatal_accidents,1,2
+91,Pakistan International,348563137,85_99,fatal_accidents,3,2
+92,Philippine Airlines,413007158,85_99,fatal_accidents,4,1
+93,Qantas*,1917428984,85_99,fatal_accidents,0,0
+94,Royal Air Maroc,295705339,85_99,fatal_accidents,3,0
+95,SAS*,682971852,85_99,fatal_accidents,0,1
+96,Saudi Arabian,859673901,85_99,fatal_accidents,2,0
+97,Singapore Airlines,2376857805,85_99,fatal_accidents,2,1
+98,South African,651502442,85_99,fatal_accidents,1,0
+99,Southwest Airlines,3276525770,85_99,fatal_accidents,0,0
+100,Sri Lankan / AirLanka,325582976,85_99,fatal_accidents,1,0
+101,SWISS*,792601299,85_99,fatal_accidents,1,0
+102,TACA,259373346,85_99,fatal_accidents,1,1
+103,TAM,1509195646,85_99,fatal_accidents,3,2
+104,TAP - Air Portugal,619130754,85_99,fatal_accidents,0,0
+105,Thai Airways,1702802250,85_99,fatal_accidents,4,1
+106,Turkish Airlines,1946098294,85_99,fatal_accidents,3,2
+107,United / Continental*,7139291291,85_99,fatal_accidents,8,2
+108,US Airways / America West*,2455687887,85_99,fatal_accidents,7,2
+109,Vietnam Airlines,625084918,85_99,fatal_accidents,3,0
+110,Virgin Atlantic,1005248585,85_99,fatal_accidents,0,0
+111,Xiamen Airlines,430462962,85_99,fatal_accidents,1,0
+112,Aer Lingus,320906734,85_99,fatalities,0,0
+113,Aeroflot*,1197672318,85_99,fatalities,128,88
+114,Aerolineas Argentinas,385803648,85_99,fatalities,0,0
+115,Aeromexico*,596871813,85_99,fatalities,64,0
+116,Air Canada,1865253802,85_99,fatalities,0,0
+117,Air France,3004002661,85_99,fatalities,79,337
+118,Air India*,869253552,85_99,fatalities,329,158
+119,Air New Zealand*,710174817,85_99,fatalities,0,7
+120,Alaska Airlines*,965346773,85_99,fatalities,0,88
+121,Alitalia,698012498,85_99,fatalities,50,0
+122,All Nippon Airways,1841234177,85_99,fatalities,1,0
+123,American*,5228357340,85_99,fatalities,101,416
+124,Austrian Airlines,358239823,85_99,fatalities,0,0
+125,Avianca,396922563,85_99,fatalities,323,0
+126,British Airways*,3179760952,85_99,fatalities,0,0
+127,Cathay Pacific*,2582459303,85_99,fatalities,0,0
+128,China Airlines,813216487,85_99,fatalities,535,225
+129,Condor,417982610,85_99,fatalities,16,0
+130,COPA,550491507,85_99,fatalities,47,0
+131,Delta / Northwest*,6525658894,85_99,fatalities,407,51
+132,Egyptair,557699891,85_99,fatalities,282,14
+133,El Al,335448023,85_99,fatalities,4,0
+134,Ethiopian Airlines,488560643,85_99,fatalities,167,92
+135,Finnair,506464950,85_99,fatalities,0,0
+136,Garuda Indonesia,613356665,85_99,fatalities,260,22
+137,Gulf Air,301379762,85_99,fatalities,0,143
+138,Hawaiian Airlines,493877795,85_99,fatalities,0,0
+139,Iberia,1173203126,85_99,fatalities,148,0
+140,Japan Airlines,1574217531,85_99,fatalities,520,0
+141,Kenya Airways,277414794,85_99,fatalities,0,283
+142,KLM*,1874561773,85_99,fatalities,3,0
+143,Korean Air,1734522605,85_99,fatalities,425,0
+144,LAN Airlines,1001965891,85_99,fatalities,21,0
+145,Lufthansa*,3426529504,85_99,fatalities,2,0
+146,Malaysia Airlines,1039171244,85_99,fatalities,34,537
+147,Pakistan International,348563137,85_99,fatalities,234,46
+148,Philippine Airlines,413007158,85_99,fatalities,74,1
+149,Qantas*,1917428984,85_99,fatalities,0,0
+150,Royal Air Maroc,295705339,85_99,fatalities,51,0
+151,SAS*,682971852,85_99,fatalities,0,110
+152,Saudi Arabian,859673901,85_99,fatalities,313,0
+153,Singapore Airlines,2376857805,85_99,fatalities,6,83
+154,South African,651502442,85_99,fatalities,159,0
+155,Southwest Airlines,3276525770,85_99,fatalities,0,0
+156,Sri Lankan / AirLanka,325582976,85_99,fatalities,14,0
+157,SWISS*,792601299,85_99,fatalities,229,0
+158,TACA,259373346,85_99,fatalities,3,3
+159,TAM,1509195646,85_99,fatalities,98,188
+160,TAP - Air Portugal,619130754,85_99,fatalities,0,0
+161,Thai Airways,1702802250,85_99,fatalities,308,1
+162,Turkish Airlines,1946098294,85_99,fatalities,64,84
+163,United / Continental*,7139291291,85_99,fatalities,319,109
+164,US Airways / America West*,2455687887,85_99,fatalities,224,23
+165,Vietnam Airlines,625084918,85_99,fatalities,171,0
+166,Virgin Atlantic,1005248585,85_99,fatalities,0,0
+167,Xiamen Airlines,430462962,85_99,fatalities,82,0
